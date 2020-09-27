@@ -1,0 +1,43 @@
+img{margin: 10px;
+height: 100px;
+width: 100px;
+}
+body{text-align: left;
+background-color: lightblue;
+font-size: 20px;
+}
+h1{color: brown;
+text-align: center;}
+h4 {text-align: center;
+font-family: 'Courier New', Courier, monospace;}
+.container
+{width: 100%;
+background-color: white;}
+.html
+{width: 0%;
+background-color: antiquewhite;
+}
+.php
+{width: 0%;
+    background-color: goldenrod;}
+.js
+{width: 0%;
+    background-color: bisque;}
+.css
+{width: 0%;
+    background-color: yellowgreen;}
+.h{
+    width: 0%;
+background-color: grey;
+}
+.j {
+    width: 0%;
+background-color: salmon;
+}
+.k 
+{width: 0%;
+    background-color: orange;}
+.i 
+{width: 0%;
+    background-color: sienna;
+}
